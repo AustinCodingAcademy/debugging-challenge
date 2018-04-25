@@ -1,6 +1,6 @@
 #### Setup
 Fork, clone, run npm install, npm start
-
+sdf 
 #### Do
  1.  debug App.js. What is the value of maxNumberOfProductsAllowed. How many objects are in the products array after doing a slice on maxNumberOfProductsAllowed. Is this correct?
  2.  debug functions.js createMagicNumber. What is the value of startingNumber immediately after line 8 executes? after the loop executes. Who is calling this function? 
