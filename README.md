@@ -6,3 +6,5 @@ sdf
  2.  debug functions.js createMagicNumber. What is the value of startingNumber immediately after line 8 executes? after the loop executes. Who is calling this function? 
  3.  debug the click event handler on the checkout button. Where is the code that is making the alert show up?
  4.  debug Header.js and Links.js. Why is the text of the last link not showing up. What should show up?
+
+ ## test change for pull request
